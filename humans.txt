@@ -3,7 +3,8 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <Sleepieman> -- <Server Owner> 
+    <Crazyiwan> -- <Server Member> 
 
 # THANKS
 
