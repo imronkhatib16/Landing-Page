@@ -62,3 +62,73 @@ body{
 	border:1.5px solid #f2f2f2;
 	cursor:pointer;
 }
+
+
+.btn-large-dark {
+	background-color:#312E58;
+	color:#fff;
+	font-weight:medium;
+	padding:15px 25px;
+	border:1.5px solid #312E58;
+	cursor:pointer;
+	transition:all 0.3s ease 0s;
+	margin-right:20px;
+}
+
+
+.btn-large-dark:hover {
+	background-color:#312e50;
+}
+
+
+
+.btn-large-light {
+	background-color:#FFF;
+	color:#707070;
+	font-weight:medium;
+	padding:15px 25px;
+	border:1.5px solid #FFF;
+	cursor:pointer;
+	transition:all 0.3s ease 0s;
+	margin-right:20px;
+}
+
+
+.btn-large-light:hover {
+	background-color:#f2f2f2;
+	border:1.5px solid #f2f2f2;
+}
+
+
+#hero {
+	height:100%;
+}
+
+#hero h1 {
+	color:#fff;
+}
+
+#hero p {
+	color:#707070;
+}
+
+#hero #heroContent{
+	/*margin-top:5%;*/
+
+    text-align:center;
+ 
+}
+
+#hero #heroButtons {
+	
+	text-align: center;
+}
+
+#heroImage {
+  background-image: url('/../img/hero-image.png'); 
+  height:100vh;
+  width:100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  
+}
