@@ -4,7 +4,10 @@ html {
 
 body{
 	background-color:#26262B;
-	background-image: url('/../img/background.svg');
+	background-image: url('/../img/background.svg'), url('/../img/hero-image.svg');
+	height:160vh;
+	overflow:hidden;
+	background-position: center;
 	background-repeat:no-repeat;
 }
 
@@ -113,22 +116,20 @@ body{
 }
 
 #hero #heroContent{
-	/*margin-top:5%;*/
-
+	padding:50px;
+	margin:auto 30px auto 30px;
     text-align:center;
  
 }
 
 #hero #heroButtons {
-	
+	margin-top:20px;
 	text-align: center;
 }
 
-#heroImage {
-  background-image: url('/../img/hero-image.png'); 
-  height:100vh;
-  width:100%;
-  background-position: center;
-  background-repeat: no-repeat;
+/*#heroImage {
+   
   
-}
+    background-position: center;
+  background-repeat: no-repeat;
+}*/
